@@ -111,25 +111,22 @@
 ## <b> Let's Connect..!</b><img src="./assets/mdImages/handshake.gif" width ="80">
 
 <br>
-<div align='left'>
 
+<div align='left'>
 <div align='center'>
 
 <a href="https://linkedin.com/in/0xabdulkhalid" target="_blank">
-<img src="./assets/mdImages/linkedin.png" alt=linkedin/>
+<img src="./assets/mdImages/linkedin.png" alt=linkedin width ="80"/>
 </a>
 
 <a href="mailto:neeravgarg663@gmail.com" target="_blank">
-<img src="./assets/mdImages/gmail.png" alt=mail />
+<img src="./assets/mdImages/gmail.png" alt=mail width ="80" />
 </a>
-
-
 
 <a href="https://twitter.com/0xabdulkhalid" target="_blank">
-<img src="./assets/mdImages/twitter.png" t=twitter/>
+<img src="./assets/mdImages/twitter.png" t=twitter width ="80"/>
 </a>
 
-	
 </div>
 </div>
 
