@@ -1,7 +1,7 @@
 <h1 align="center"><b>Hi , I'm Neerav Garg </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+Alaikum+Warahmatullah..&hearts;++;Self-taught+Front-End+Developer,;Computer+Science+Student,;CTF+Newbie,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Self-taught+Full-Stack+Developer,;Computer+Science+Student,;Active+Learner/Researcher,;Love+to+learn+new+stuff..<3">
 </p>
 
 <br>
@@ -15,11 +15,9 @@
 
 <br>
 
-- Hello, and welcome to my GitHub profile! My name is Abdul Khalid, and I am a self-taught front-end developer with a passion for creating engaging and user-friendly web applications.
+- Hello, and welcome to my GitHub profile! My name is Neerav Garg, and I am a self-taught full-stack developer with a passion for creating engaging, user-friendly, and robust web applications.
 
-- Currently, I am pursuing a Bachelor's degree in Computer Science, where I am also learning and expanding my knowledge in software development.
-
-- As a self-taught developer, I have taken the initiative to learn the latest technologies and techniques for creating dynamic and engaging user interfaces.
+- As a self-taught developer, I have taken the initiative to learn the latest technologies and techniques to further enhance my stack.
 
 - Through practice and experimentation, I have honed my skills in HTML, CSS, JavaScript.
 
@@ -105,29 +103,41 @@
 
 ---
 
-<br>
-<br>
+<!-- <br>
+<br> -->
 
 ## <b> Let's Connect..!</b><img src="./assets/mdImages/handshake.gif" width ="80">
 
 <br>
 
 <div align='left'>
-<div align='center'>
 
-<a href="https://linkedin.com/in/0xabdulkhalid" >
-<img src="./assets/mdImages/linkedin.png" alt=linkedin width ="80"/>
+<ul>
+
+<li>
+<a href="https://www.linkedin.com/in/neerav-garg-5b99181a9" target="_blank">
+<img src="https://img.shields.io/badge/linkedin:  neeravgg.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin/>
 </a>
+</li>
 
-<a href="mailto:neeravgarg663@gmail.com" >
-<img src="./assets/mdImages/gmail.png" alt=mail width ="80" />
+<br>
+
+<li>
+<a href="https://twitter.com/neerav_garg_" target="_blank">
+<img src="https://img.shields.io/badge/twitter:  neeravgg.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white" alt=twitter/>
 </a>
+</li>
 
-<a href="https://twitter.com/0xabdulkhalid" >
-<img src="./assets/mdImages/twitter.png" t=twitter width ="80"/>
+<br>
+
+<li>
+<a href="mailto:neeravgarg663@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/gmail:  neeravgg.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail/>
 </a>
+</li>
+	
+</ul>
 
-</div>
 </div>
 
 <br>
