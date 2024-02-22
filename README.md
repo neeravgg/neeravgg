@@ -113,27 +113,24 @@
 <br>
 <div align='left'>
 
-<ul align='center'>
+<div align='center'>
 
-<li>
 <a href="https://linkedin.com/in/0xabdulkhalid" target="_blank">
 <img src="./assets/mdImages/linkedin.png" alt=linkedin/>
 </a>
-</li>
 
-<li>
 <a href="mailto:neeravgarg663@gmail.com" target="_blank">
 <img src="./assets/mdImages/gmail.png" alt=mail />
 </a>
-</li>
 
-<li>
+
+
 <a href="https://twitter.com/0xabdulkhalid" target="_blank">
 <img src="./assets/mdImages/twitter.png" t=twitter/>
 </a>
-</li>
+
 	
-</ul>
+</div>
 </div>
 
 <br>
