@@ -95,8 +95,8 @@
 
 <div align="center">
 
-[![Abdul Khalid's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=0xabdulkhalid&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Abdul Khalid's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=0xabdulkhalid&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+[![Neerav Garg's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=neeravgg&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Neerav Garg's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=neeravgg&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
 </div>
 
@@ -115,15 +115,15 @@
 <div align='left'>
 <div align='center'>
 
-<a href="https://linkedin.com/in/0xabdulkhalid" target="_blank">
+<a href="https://linkedin.com/in/0xabdulkhalid" >
 <img src="./assets/mdImages/linkedin.png" alt=linkedin width ="80"/>
 </a>
 
-<a href="mailto:neeravgarg663@gmail.com" target="_blank">
+<a href="mailto:neeravgarg663@gmail.com" >
 <img src="./assets/mdImages/gmail.png" alt=mail width ="80" />
 </a>
 
-<a href="https://twitter.com/0xabdulkhalid" target="_blank">
+<a href="https://twitter.com/0xabdulkhalid" >
 <img src="./assets/mdImages/twitter.png" t=twitter width ="80"/>
 </a>
 
