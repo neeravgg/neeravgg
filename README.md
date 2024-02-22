@@ -15,21 +15,13 @@
 
 <br>
 
-- Hello, and welcome to my GitHub profile! My name is Neerav Garg, and I am a self-taught full-stack developer with a passion for creating engaging, user-friendly, and robust web applications.
+<h1 align="center">Hey 👋, I'm Neerav Garg</h1>
+<p align="center">A passionate full-stack developer from India</p>
+</br>
 
-- As a self-taught developer, I have taken the initiative to learn the latest technologies and techniques to further enhance my stack.
+🔭 I’m currently working on [DevNotes](https://github.com/finsoncoutinho/devnotes) <br>🌱 As a self-taught developer, I proactively learn the latest technologies to enhance my skill set.<br>💬 Ask me about **Javascript, Typescript, React, NextJS, MongoDB, NodeJS & PostgreSQL **<br>📫 How to reach me **neeravgarg663@gmail.com**
 
-- Through practice and experimentation, I have honed my skills in HTML, CSS, JavaScript.
-
-- My portfolio on GitHub reflects my dedication to constantly learning and improving as a developer. I am always on the lookout for new challenges that will push me out of my comfort zone and help me grow my skills.
-
-- I encourage you to take a look at my work on <a href="https://www.frontendmentor.io/profile/0xAbdulKhalid">Frontend Mentor</a>, where I have completed several design challenges to showcase my abilities.
-
-- My ultimate goal is to create innovative and user-friendly web applications that provide real value to users.
-
-- I am always open to new ideas and opportunities to collaborate with other passionate developers. If you're interested in discussing potential projects or just want to say hello, feel free to reach out to me at <a href="mailto:0xabdulkhalid@gmail.com">0xabdulkhalid@gmail.com</a>
-
-- Thank you for visiting my profile, and I look forward to connecting with you!
+### [🖥️ My Portfolio](https://portfolio-neerav.netlify.app)
 
 <br><br>
 
