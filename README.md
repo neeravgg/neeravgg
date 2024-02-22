@@ -15,11 +15,11 @@
 
 <br>
 
-<h1 align="center">Hey 👋, I'm Neerav Garg</h1>
-<p align="center">A passionate full-stack developer from India</p>
-</br>
-
-🔭 I’m currently working on [DevNotes](https://github.com/finsoncoutinho/devnotes) <br>🌱 As a self-taught developer, I proactively learn the latest technologies to enhance my skill set.<br>💬 Ask me about **Javascript, Typescript, React, NextJS, MongoDB, NodeJS & PostgreSQL **<br>📫 How to reach me **neeravgarg663@gmail.com**
+❤️ A passionate full-stack developer from India.<br>
+🔭 I’m currently working on [DevNotes](https://github.com/finsoncoutinho/devnotes) <br>
+🌱 As a self-taught developer, I proactively learn the latest technologies to enhance my skill set.<br>
+💬 Ask me about **Javascript, Typescript, React, NextJS, MongoDB, NodeJS & PostgreSQL **<br>
+📫 How to reach me **neeravgarg663@gmail.com**
 
 ### [🖥️ My Portfolio](https://portfolio-neerav.netlify.app)
 
