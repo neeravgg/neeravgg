@@ -80,31 +80,6 @@
 
 </p>
 
-<!-- <br> -->
-
----
-
-<!-- <br>
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
-
-<br>
-
-<div align="center">
-
-[![Neerav Garg's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=neeravgg&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Neerav Garg's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=neeravgg&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
-
-</div>
-
-<br>
-<br> -->
-
----
-
-<!-- <br>
-<br> -->
-
 ## <b> Let's Connect..!</b><img src="./assets/mdImages/handshake.gif" width ="80">
 
 <br>
