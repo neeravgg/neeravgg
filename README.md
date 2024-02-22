@@ -81,7 +81,6 @@
 </p>
 
 <!-- <br> -->
-<br>
 
 ---
 
@@ -116,7 +115,7 @@
 
 <li>
 <a href="https://www.linkedin.com/in/neerav-garg-5b99181a9" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:  neeravgg.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin/>
+<img src="https://img.shields.io/badge/linkedin:  neeravgg-0077B5.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin/>
 </a>
 </li>
 
@@ -124,7 +123,7 @@
 
 <li>
 <a href="https://twitter.com/neerav_garg_" target="_blank">
-<img src="https://img.shields.io/badge/twitter:  neeravgg.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white" alt=twitter/>
+<img src="https://img.shields.io/badge/twitter:  neeravgg-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white" alt=twitter/>
 </a>
 </li>
 
@@ -132,7 +131,7 @@
 
 <li>
 <a href="mailto:neeravgarg663@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail:  neeravgg.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail/>
+<img src="https://img.shields.io/badge/gmail:  neeravgg-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail/>
 </a>
 </li>
 	
